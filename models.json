@@ -103,6 +103,166 @@
           ]
         }
       ]
+    },
+    "ruadapt-3b-instruct-4bit": {
+      "files": [
+        {
+          "name": "LICENSE",
+          "size": 7388,
+          "sha256": "ef52482bb785733093dc9a2e8edd8e764c77d12d8e9d8f10a80c9b547d32d0f9",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1rHdreAPyBPlPHnJeWE7JnTAgZcqDzxIl&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "chat_template.jinja",
+          "size": 2373,
+          "sha256": "7aef6718907331ee2111b50aef54023064995121997aaf05839a897f028d409b",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=182C9N_kVf6D8tiDWWlArV4HWDFAMm968&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "config.json",
+          "size": 914,
+          "sha256": "dc2209a77dd78ed646407570b85c64bf6d53ce369e3367ef663ad57b56ebc103",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=177Nr0YJtCjv-rWMjGFzz4_UIrK0VoxqN&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "generation_config.json",
+          "size": 195,
+          "sha256": "8f2c19cf719c28cf02887440a4f91a9ec908102443053b0f24d23fdc8bf6ae28",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1arA4G6Wx5xrO7B1FtslNkmW6PEgCvnvo&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "model.safetensors",
+          "size": 1730719055,
+          "sha256": "b6de9aefe164ab3e38716484244a60475d85c93e66eac486818b217e4cb7538c",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1CVPopRRqxMK0jJvWVNus69FAYexri32i&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "model.safetensors.index.json",
+          "size": 66330,
+          "sha256": "6da3b37abb75b675544b06964e268c4194b17abd30b79e614d644192cf04acfa",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1uM8fdoNawTTznSU8Eojmw0pCDX7SaBY8&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "tokenizer.json",
+          "size": 12441282,
+          "sha256": "84b9483a1bfb5b8bb09b0269429a5e7fd89ee2868eb31cc70d5f695b64b95852",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1RKobvOZl1Dj1a-7149sNFTqWhnU50eMw&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "tokenizer_config.json",
+          "size": 740,
+          "sha256": "c8f29e66b1b10f4d9d987ffbf79a53882771ecd0a02ebb712c5fc2a88474becf",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1Ct4GlrYDCYWOCOp6x6_lqrhgu6TOL6ia&export=download&confirm=t"
+          ]
+        }
+      ]
+    },
+    "gigaam-v3-rnnt-coreml": {
+      "files": [
+        {
+          "name": "GigaAMv3DecoderStep.mlpackage/Data/com.apple.CoreML/model.mlmodel",
+          "size": 7367,
+          "sha256": "71194a592055ad6a24ae4c980edcd52a25ea51c079b79f736033d07e00d6dfa5",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1kla3U2SQ4C4QSv6WHRCG0Of8qrFie3iS&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "GigaAMv3DecoderStep.mlpackage/Data/com.apple.CoreML/weights/weight.bin",
+          "size": 2297280,
+          "sha256": "5b23897e619a78cea140dbf3677efc92a58ed7935542047df7d452f03cf98edd",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1iMfio9V3aEomWBpcPrt9XaEP8Hq5de6I&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "GigaAMv3DecoderStep.mlpackage/Manifest.json",
+          "size": 617,
+          "sha256": "392239871ff24dbc7d1091dbe11982f202d8ce53e3ce9fb2f11cd671881ebbf9",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1MZfiXbiLLMo-Gsww2SkPM5MJSVOk7i-K&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "GigaAMv3Encoder.mlpackage/Data/com.apple.CoreML/model.mlmodel",
+          "size": 419364,
+          "sha256": "f66bd914e5379bcddbbe7ef9d485c7e712443e5f5a880ce98a0cc0aafe3aeeeb",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1bNAG4vHt0GsO-tjwKAOERkdPpSoTmEAh&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "GigaAMv3Encoder.mlpackage/Data/com.apple.CoreML/weights/weight.bin",
+          "size": 441545792,
+          "sha256": "cacb9c2b41a62b3fcdb3522c0571a3196648dfe39dfb1df9a31969239c8e3877",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1MsweunlaI7MM7o6AowaAHCjJ8sfxXjNf&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "GigaAMv3Encoder.mlpackage/Manifest.json",
+          "size": 617,
+          "sha256": "6589ff6d3d3f814561449073ee12160bafb9f467c89159dc6a7240ef68235b04",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1VMJjfO348hYrtczUj9JVFnXhu47oeteg&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "GigaAMv3JointStep.mlpackage/Data/com.apple.CoreML/model.mlmodel",
+          "size": 2916,
+          "sha256": "9fa81aeaf320573eca794c17ad825d4c3ea7219f35414387732994df43a7bec3",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1ujbCB_RRgn7_Q9bYHdFifT3FK5sSdUKZ&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "GigaAMv3JointStep.mlpackage/Data/com.apple.CoreML/weights/weight.bin",
+          "size": 1356098,
+          "sha256": "bbd11afc9f9954dea7ddf860e13e57a24ae908e061c80ac3e8b0b9693fb4886d",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1teCcleHSJQazOkdW0doPY8MSl0Vxznpc&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "GigaAMv3JointStep.mlpackage/Manifest.json",
+          "size": 617,
+          "sha256": "378654b204d17a89750d807c95aa3bc4e3893bb808ca4c0e2f22259e3b210c42",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1949n6OYMAsgohTQRBQ6e7BAtWKk0zScG&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "LICENSE",
+          "size": 1070,
+          "sha256": "f00de6715714c7a63d08639cdbfaa40224eefc407302614bd19f1a8b98c875aa",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1V1zuh7T0B1n7W-VlJ1LLHQXGJ3lUmy3Z&export=download&confirm=t"
+          ]
+        },
+        {
+          "name": "tokens.json",
+          "size": 12406,
+          "sha256": "260c932355adc98a7440d49887f72a2fca42256971ad07a4e91265e93859ff69",
+          "urls": [
+            "https://drive.usercontent.google.com/download?id=1qrrO5TrgZZ-op5h3AgJiUPtEkB_3KwgT&export=download&confirm=t"
+          ]
+        }
+      ]
     }
   }
 }
