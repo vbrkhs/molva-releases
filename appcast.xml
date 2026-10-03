@@ -4,6 +4,39 @@
     <title>Molva Updates</title>
     <language>en</language>
     <item>
+      <title>Version 2.0.0</title>
+      <pubDate>Sat, 03 Oct 2026 18:05:00 +0000</pubDate>
+      <sparkle:version>200</sparkle:version>
+      <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>Молва 2.0 — новое лицо и буфер обмена</h2>
+        <ul>
+          <li><strong>Буфер обмена:</strong> Молва запоминает скопированное — текст, ссылки и картинки. Раздел с поиском, отбором по виду и сроками хранения; пароли и ключи не запоминаются.</li>
+          <li><strong>Палитра вставки по ⌥⌘V:</strong> окно поверх работы, выбор цифрой или стрелками, ⌘S — сохранить записанное файлом.</li>
+          <li><strong>Дневник:</strong> теги чипами с подсказками, проекты, плеер записи со скоростью, поиск и отбор.</li>
+          <li><strong>Хранилище:</strong> видно, чем занят диск — модели, записи, расшифровки — и что из этого можно удалить.</li>
+          <li><strong>Главная:</strong> сколько надиктовано, что мешает работе, какие клавиши нажимать.</li>
+          <li><strong>Новое лицо:</strong> приложение целиком перерисовано — свой знак «~I», свои значки, засечной шрифт для речи человека и светлая, тёмная или системная тема.</li>
+          <li><strong>Понятные ошибки:</strong> вместо кода — что случилось и что сделать; сообщение ждёт, пока вы на него посмотрите.</li>
+          <li><strong>Горячие клавиши:</strong> любые сочетания и двойные нажатия, сторона модификатора, отдельная клавиша на каждое действие.</li>
+        </ul>
+        <h3>Под капотом</h3>
+        <ul>
+          <li>Распознавание GigaAM v3 на Core ML и Parakeet; оформление речи локальной моделью Qwen3 4B — ничего не уходит в сеть.</li>
+          <li>Устные списки, словарь терминов и чистка оговорок.</li>
+          <li>Журнал диагностики без содержимого диктовок.</li>
+          <li>Молва подписана и проверена Apple: при установке macOS больше не предупреждает. После обновления один раз заново выдайте доступ к микрофону и Универсальному доступу.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/viktorbrs/molva-releases/releases/download/v2.0.0/Molva-2.0.0.dmg"
+        type="application/octet-stream"
+        sparkle:edSignature="6gna5ZCBlkt9Ajl07d9CFaz9YzbOfGPJryCjMzw5ZTAS1QxaDN/f8fUgBJZdoIle9y+Njei7+5MY5KheuhcaBQ=="
+        length="33259467"
+      />
+    </item>
+    <item>
       <title>Version 1.2.1</title>
       <pubDate>Thu, 23 Apr 2026 20:52:47 +0000</pubDate>
       <sparkle:version>121</sparkle:version>
